@@ -7,6 +7,24 @@
     </head>
     <body>
         <%@ include file="template.jsp" %>
-        <main>C'est la partie categorie.jsp </main>
+        <main>
+        <div>
+        <table>
+        	<tr>
+        		<th>Catégorie</th>
+        		<th>Produit</th>
+        	</tr>
+        	<tr>
+        		<td>Catégorie 1</td>
+        	</tr>
+        	<tr>
+        		<td>Catégorie 2</td>
+        	</tr>
+        	<tr>
+        		<td>Catégorie 3</td>
+        	</tr>
+        </table>
+        </div>
+        </main>
     </body>
 </html>

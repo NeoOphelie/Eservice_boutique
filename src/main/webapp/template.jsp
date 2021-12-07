@@ -118,7 +118,7 @@
 		</header>
 				
 		<main>
-			
+			<!-- texte issus des autres .jsp -->
 		</main>
 
 		<nav id="navigation">
