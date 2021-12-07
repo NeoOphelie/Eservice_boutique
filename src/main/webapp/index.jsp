@@ -1,12 +1,12 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-
-</body>
+    <head>
+        <meta charset="utf-8" />
+        <title>index</title>
+    </head>
+    <body>
+        <%@ include file="template.jsp" %>
+        <p>C'est la partie index.jsp </p>
+    </body>
 </html>
