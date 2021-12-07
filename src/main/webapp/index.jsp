@@ -7,6 +7,6 @@
     </head>
     <body>
         <%@ include file="template.jsp" %>
-        <p>C'est la partie index.jsp </p>
+        <main>C'est la partie index.jsp </main>
     </body>
 </html>
