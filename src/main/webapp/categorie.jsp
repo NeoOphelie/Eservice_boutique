@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>categorie</title>
+        <title>Categorie</title>
     </head>
     <body>
         <%@ include file="template.jsp" %>
@@ -16,12 +16,15 @@
         	</tr>
         	<tr>
         		<td>Catégorie 1</td>
+        		<td>element liste 1<br>element liste 2</td>
         	</tr>
         	<tr>
         		<td>Catégorie 2</td>
+        		<td>element liste 1<br>element liste 2</td>
         	</tr>
         	<tr>
         		<td>Catégorie 3</td>
+        		<td>element liste 1<br>element liste 2</td>
         	</tr>
         </table>
         </div>

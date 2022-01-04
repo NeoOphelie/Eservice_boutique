@@ -127,7 +127,7 @@
 				<ul>
 					<li><a href="/WebCatalogue/index.jsp">Acceuil</a></li>
 					<li><a href="/WebCatalogue/categorie.jsp">Catégories</a></li>
-					<li><a href="#">Panier</a></li>
+					<li><a href="/WebCatalogue/panier.jsp">Panier</a></li>
 				</ul>
 			</div>
 		</nav>	
